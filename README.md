@@ -1,4 +1,4 @@
-# ADS_capstone
+# Applied Data Science Capstone
 
 ## Editing the file
 
