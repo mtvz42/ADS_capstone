@@ -5,7 +5,7 @@ SpaceX advertises Falcon 9 rocket launches on their website at $62 million; othe
 Therefore, if we can determine whether the first stage will land, we can determine the cost of a launch.
 This information can be used if an alternative company wants to bid against SpaceX for a rocket launch.
 
-Part 1: Data Collection using Web Scraping
+## Part 1: Data Collection using Web Scraping
 In this part, web scraping is done using Python BeautifulSoup package, to collect Falcon 9 historical launch records from a Wikipedia page titled 'List of Falcon 9 and Falcon Heavy launches'
 https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches
 Notebook file: 1_1_Data_collection_API.ipynb
