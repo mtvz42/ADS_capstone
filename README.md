@@ -8,7 +8,8 @@ This information can be used if an alternative company wants to bid against Spac
 ## Part 1: Data Collection using Web Scraping
 In this part, web scraping is done using Python BeautifulSoup package, to collect Falcon 9 historical launch records from a Wikipedia page titled 'List of Falcon 9 and Falcon Heavy launches'
 https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches
-[Notebook file: 1_1_Data_collection_API.ipynb]
+
+Notebook file: 1_1_Data_collection_API.ipynb
 
 ## Part 2: Data Collection using SpaceX API
 In this part, data is collected from the SpaceX API. Basic data wrangling and formatting is done.
